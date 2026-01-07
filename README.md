@@ -1,6 +1,6 @@
 # Hi, I'm Zulfian 👋
 
-**Python GTK App Dev | Creator of Jollpi Text Editor | Architect of MUN-AI | Linux Enthusiast | Full Stack Laravel**
+**Python GTK App Dev | Maintainer/Author Jollpi Text Editor | Architect of MUN-AI | Linux Enthusiast | Full Stack Laravel**
 
 ---
 
